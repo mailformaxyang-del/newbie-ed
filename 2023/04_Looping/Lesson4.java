@@ -4,7 +4,7 @@ public class Lesson4 {
         for (int i = 50; i >= 0; i-=2) {
             System.out.println(i);
         }
-
+        // Stage test!
         //Print odd numbers counting up to 100
         for (int i = 1; i <= 100; i+=2) {
             System.out.println(i);
